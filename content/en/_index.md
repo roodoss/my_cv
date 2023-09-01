@@ -15,9 +15,8 @@ keywords:
 - programmer
 ---
 
-{{< icon vendor="feather" name="phone" link="tel:+972503034175" tooltip="+972503034175">}}
-{{< icon vendor="feather" name="mail" link="mailto:rudysadat@gmail.com" tooltip="rudysadat@gmail.com">}}
-
+{{< icon vendor="feather" name="phone" link="tel:+972503034175" tooltip="+972503034175">}} 050-303-4175
+<!-- {{< icon vendor="feather" name="mail" link="mailto:rudysadat@gmail.com" tooltip="rudysadat@gmail.com">}} -->
 {{< icon vendor="feather" name="map-pin" >}}Hadera, _Israël_
 
 
