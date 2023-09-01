@@ -1,4 +1,4 @@
-baseURL = 'https://cv.roodoss.xyz/'
+baseURL = 'https://cv-rudysadat.netlify.app/'
 languageCode = 'en-US'
 title = 'Rudy Sadat'
 theme = 'hugo-theme-monochrome'
