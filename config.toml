@@ -1,0 +1,22 @@
+baseURL = 'https://cv.roodoss.xyz/'
+languageCode = 'en-US'
+title = 'Rudy Sadat'
+theme = 'hugo-theme-monochrome'
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "Rudy Sadat"
+    weight = 1
+    contentDir = "content/en"
+
+  [languages.he]
+    title = "רודי סדאת"
+    weight = 2
+    contentDir = "content/he"
+
+  [languages.fr]
+    title = "Rudy Sadat"
+    weight = 3
+    contentDir = "content/fr"

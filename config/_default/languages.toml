@@ -1,0 +1,18 @@
+[en]
+contentDir = "content/en"
+languageName = "English"
+languageCode = "en"
+weight = 1
+
+[he]
+contentDir = "content/he"
+languageName = "עברית"
+languageCode = "he"
+weight = 2
+
+[fr]
+contentDir = "content/fr"
+languageName = "Français"
+languageCode = "fr"
+weight = 3
+
