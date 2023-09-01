@@ -4,7 +4,7 @@ balloon_img_src: "icons/timeline.svg"
 balloon_img_src_dark: "icons/timeline_dark.svg"
 balloon_circle: false
 balloon_resources: "cv."
-description: "Demo site of hugo-theme-monochrome"
+description: "Rudy Sadat - CV"
 zooming_js: false
 keywords:
 - rudy
